@@ -1,3 +1,6 @@
+**Weapon-Detection-System**
+
+
 The Weapon Detection System is a project aimed at enhancing security measures by utilizing state-of-the-art deep learning techniques for real-time weapon detection. The system employs the YOLO (You Only Look Once) algorithm, a powerful object detection model, to identify weapons within images or video streams. Leveraging a pre-trained YOLO model enables accurate and efficient detection of weapons in various environments.
 
 In addition to weapon detection, the system incorporates advanced features for enhanced functionality and situational awareness. A JSON API integration facilitates the retrieval of real-time location details, including latitude, longitude, IP address, and timestamp, when a weapon is detected or triggered. This information can be invaluable for security personnel or law enforcement agencies to respond promptly to potential threats.
