@@ -7,7 +7,6 @@ In addition to weapon detection, the system incorporates advanced features for e
 
 To provide a user-friendly interface, the system utilizes Flask, a web framework for Python, to seamlessly integrate the detection capabilities into a frontend application. This integration simplifies the deployment and usage of the weapon detection system, making it accessible to a broader audience.
 
-Readme Details:
 
 Installation:
 
