@@ -8,20 +8,20 @@ In addition to weapon detection, the system incorporates advanced features for e
 To provide a user-friendly interface, the system utilizes Flask, a web framework for Python, to seamlessly integrate the detection capabilities into a frontend application. This integration simplifies the deployment and usage of the weapon detection system, making it accessible to a broader audience.
 
 
-Installation:
+**Installation:**
 
-Clone the repository to your local machine using git clone https://github.com/shreyas-0203/Weapon-Detection-System.git.
+Clone the repository to your local machine using git clone https://github.com/shreyas-0203/Weapon-Detection-System.git.       
 Navigate to the project directory.
 
-Usage:
+**Usage:**
 
-Run the Flask application by executing python main.py.
-Access the application through your web browser by visiting http://localhost:5000.
-Upload an image or video containing potential weapon objects.
+Run the Flask application by executing python main.py.   
+Access the application through your web browser by visiting http://localhost:5000.     
+Upload an image or video containing potential weapon objects.      
 Monitor the output for detected weapons, along with real-time location details retrieved via the JSON API.
 
-Dependencies:
+**Dependencies:**
 
-YOLOv3: The project utilizes a pre-trained YOLOv3 model for weapon detection.
-Flask: A Python web framework used for building the frontend interface.
+YOLOv3: The project utilizes a pre-trained YOLOv3 model for weapon detection.                        
+Flask: A Python web framework used for building the frontend interface.                       
 JSON API: Integration with a JSON API to retrieve real-time location details.
